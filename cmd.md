@@ -20,3 +20,12 @@ Linux Macos:
 ```sh
 ls
 ```
+
+Udalenıye fayla Windows:
+```sh
+del <filename>
+```
+v Linux, Macos ;
+```sh
+rm <filename>
+```
