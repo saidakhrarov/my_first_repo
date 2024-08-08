@@ -13,3 +13,18 @@ Novaya stroka.
 **Polujırnıy Tekst**
 
 *Kursıv*
+
+## Sıtırovanıye v yazıke
+Markdown
+>Pervıy uroven sıtırovanıya
+>>Vtoroy uruven
+
+## Spıskı
+### Ne numerovınıy spıskı
+* List
+* lİst
+* List
+### Numerovınıy spıskı
+1 List
+2 List
+3 List
