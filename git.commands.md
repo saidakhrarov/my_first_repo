@@ -40,3 +40,8 @@ git checkout
 ```sh
 git branch <branch_name>
 ```
+
+## Kak udalıt vetku v gıte
+```sh
+git branch -d branch_name
+```
