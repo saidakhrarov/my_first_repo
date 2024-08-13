@@ -31,3 +31,6 @@ Markdown
 
 ## Web ssılkı
 Tekst [Prımer ssılkı](htpp.example.com)"Vsplıvayushaya podskazka"
+
+## Dobavlenıye kartınkı
+![fura](fura.jpg)
