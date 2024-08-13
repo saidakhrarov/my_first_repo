@@ -1,10 +1,37 @@
 # Podskazka po GIT
 
+## Vızvat gıt
+```sh
 git version
-git init
+```
+
+
+
+## dobavıt / sohranıt v gıte fayl
+```sh
 git add
+```
+
+
+## Posmotret status fayla
+```sh
 git status
+```
+
+
+## Dobavıt kommentarıy k gıtu
+```sh
 git commit -m ""
+```
+
+
+## Posmoptret ıstorıyu ızmenenıy
+```sh
 git log
-git log --oneline
-git checkout
+```
+
+
+## Pereyti na nujnuyu vetku ili je versıyu fayla v gite
+```sh
+git checkout 
+```
