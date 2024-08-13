@@ -35,3 +35,8 @@ git log
 ```sh
 git checkout 
 ```
+
+## Otobrajenıye Vsex vetok
+```sh
+git branch
+```
