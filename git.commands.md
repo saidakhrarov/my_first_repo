@@ -33,5 +33,5 @@ git log
 
 ## Pereyti na nujnuyu vetku ili je versıyu fayla v gite
 ```sh
-git checkout <branch_name>
+git checkout 
 ```
