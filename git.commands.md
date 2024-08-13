@@ -33,7 +33,7 @@ git log
 
 ## Pereyti na nujnuyu vetku ili je versıyu fayla v gite
 ```sh
-git checkout 
+git checkout <ımya vetkı>>
 ```
 
 ## Otobrajenıye Vsex vetok
