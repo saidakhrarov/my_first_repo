@@ -35,3 +35,8 @@ git log
 ```sh
 git checkout 
 ```
+
+## Kak dobavıt novuyu vetku v gıte
+```sh
+git branch <branch_name>
+```
